@@ -40,7 +40,7 @@ Given two entity sets A and B with cardinality ratio x:y, find the size of the r
 | Cardinality Ratio | Result | Explanation |
 |-------------------|---------|-------------|
 | N:1 | \|A\| | Each element in A selects exactly one element in B |
-| 1:N | \|B\| | Each element in B can be related to multiple elements in A |
+| 1:N | \|B\| | Each element in B selects exactly one element in A |
 | M:N | \|A\| * \|B\| | Each element in A can be related to all elements in B |
 | 1:1 | min(\|A\|,\|B\|) | One-to-one relationship between sets |
 
