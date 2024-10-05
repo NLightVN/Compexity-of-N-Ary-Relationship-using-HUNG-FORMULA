@@ -1,4 +1,4 @@
-# H-Relation Algorithm in N-ary Relationships
+# Hung-Relation Algorithm in N-ary Relationships
 
 The H-Relation algorithm is used to calculate the size of relationship sets in n-ary relationships with different cardinality ratios.
 
