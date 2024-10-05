@@ -90,7 +90,6 @@ In the worst case (M:N:P:Q), the complexity can reach O(|E1| × |E2| × |E3| × 
 
 ## ⚠️ Limitations
 
-- The algorithm assumes consistent cardinality ratios
 - Real-world applications might have additional constraints
 - The worst-case scenarios might not reflect practical situations
 
