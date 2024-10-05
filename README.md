@@ -1,6 +1,6 @@
-# Hung-Relation Algorithm in N-ary Relationships
+# My formula in Determining Complexity of N-ary Relationships
 
-The H-Relation algorithm is used to calculate the size of relationship sets in n-ary relationships with different cardinality ratios.
+The Formula is used to determine the size of relationship sets in n-ary relationships with different cardinality ratios.
 
 ## 🎯 Algorithm Application Examples
 
