@@ -88,10 +88,6 @@ The algorithm's complexity depends on:
 
 In the worst case (M:N:P:Q), the complexity can reach O(|E1| × |E2| × |E3| × |E4|).
 
-## ⚠️ Limitations
-
-- Real-world applications might have additional constraints
-- The worst-case scenarios might not reflect practical situations
 
 ## 📋 Prerequisites
 
