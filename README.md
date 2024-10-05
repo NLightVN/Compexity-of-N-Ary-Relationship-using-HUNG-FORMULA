@@ -8,6 +8,7 @@ The H-Relation algorithm is used to calculate the size of relationship sets in n
 ![Example1](Example1.png)
 
 **Conditions:**
+- Given entitiy sets: Book, Author, Category, Format  in a 4-ary relationship
 - Each entity set has a maximum of 1000 elements
 - Cardinality ratio: 1:1:1:1
 
@@ -20,10 +21,12 @@ The H-Relation algorithm is used to calculate the size of relationship sets in n
 **Result:** The worst case scenario yields 1000 relationships
 
 ### Example 2: 4-ary Relationship with 1:N:1:Q Ratio
-
+![Example2](Example2.jpg)
 **Conditions:**
+- Given entitiy sets: Book, Author, Category, Format  in a 4-ary relationship
 - Each entity set has a maximum of 1000 elements
 - Cardinality ratio: 1:N:1:Q
+  
 
 **Solution:**
 - R2 = |Author| = 1000
