@@ -18,7 +18,7 @@ The H-Relation algorithm is used to calculate the size of relationship sets in n
 - R3 = min(R3, R2) = 1000 (since [Book,Author]:[Category] is 1:1)
 - R4 = min(R3,R4) = 1000 (since [Book,Author,Category]:[Format] is 1:1)
 
-**Result:** The worst case scenario yields 1000 relationships
+**Result:** The worst case scenario yields 1000 relationship instances
 
 ### Example 2: 4-ary Relationship with 1:N:1:Q Ratio
 ![Example2](Example2.jpg)
@@ -33,7 +33,7 @@ The H-Relation algorithm is used to calculate the size of relationship sets in n
 - R3 = R2 (since [Book,Author]:[Category] is N:1)
 - R4 = |Format| * R3 = 1000 * 1000 (since [Book,Author,Category]:[Format] is N:M)
 
-**Result:** The worst case scenario yields 1,000,000 relationships
+**Result:** The worst case scenario yields 1,000,000 relationship instances
 
 ## 📚 Theoretical Foundation
 
