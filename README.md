@@ -53,7 +53,7 @@ Given two entity sets A and B with cardinality ratio x:y, find the size of the r
 **Solution Method:**
 1. Let Rn be the number of relationships when considering the first n entities
 2. With known Rn-1, let Kn-1 be an entity set with Rn-1 elements
-3. Cardinality ratio between Kn-1 and En is Kn-1:tn
+3. Rn is the number of elements in the relationship set between Kn-1 and En with ratio Kn-1:tn
 
 **Formula:**
 ```
