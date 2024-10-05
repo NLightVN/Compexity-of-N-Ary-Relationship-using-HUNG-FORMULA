@@ -5,6 +5,7 @@ The H-Relation algorithm is used to calculate the size of relationship sets in n
 ## 🎯 Algorithm Application Examples
 
 ### Example 1: 4-ary Relationship with 1:1:1:1 Ratio
+![Example1](Example1.png)
 
 **Conditions:**
 - Each entity set has a maximum of 1000 elements
