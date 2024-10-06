@@ -65,7 +65,7 @@ The H-Relation algorithm is particularly useful in:
 **Result:** The worst case scenario yields 1000 relationship instances (  MIN (|Book|,|Author|,|Category|,|Format|)   )
 
 ### Example 2: 4-ary Relationship with 1:N:1:Q Ratio
-![Example2](Example2.jpg)
+![Example2](example2.jpg)
 **Conditions:**
 - Given entitiy sets: Book, Author, Category, Format  in a 4-ary relationship
 - Each entity set has a maximum of 1000 elements
